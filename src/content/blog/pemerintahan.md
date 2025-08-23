@@ -2,7 +2,7 @@
 title: "Pengertian Pemerintahan: Analisis Komprehensif dan Peran Fundamental dalam Tata Kelola Negara"
 description: "Dokumen ini menyajikan kajian mendalam mengenai definisi, fungsi, dan struktur pemerintahan sebagai pilar utama dalam penyelenggaraan negara, serta menyoroti peran strategisnya di era kontemporer."
 pubDate: "2025-08-24"
-heroimage: "https://cdn.pixabay.com/photo/2013/07/13/09/41/flag-155928_1280.png"
+heroImage: "https://cdn.pixabay.com/photo/2013/07/13/09/41/flag-155928_1280.png"
 ---
 
 Pemerintahan, dalam konteks kenegaraan, bukanlah sekadar entitas abstrak, melainkan sebuah instrumen vital yang mengorganisasi kehidupan kolektif suatu bangsa. Ia adalah mekanisme formal yang dirancang untuk mewujudkan tujuan-tujuan negara, mulai dari pemeliharaan ketertiban, penyediaan layanan publik, hingga perlindungan kedaulatan. Memahami secara mendalam apa itu **pemerintahan** adalah langkah fundamental untuk mengapresiasi kompleksitas dan tanggung jawab yang diemban oleh para pelaksana tugas kenegaraan.
