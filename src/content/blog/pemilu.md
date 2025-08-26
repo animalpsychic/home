@@ -18,7 +18,13 @@ pubDate: "2025-08-27"
 ---
 
 <div align="center">
-  <img src="https://img.icons8.com/?size=100&id=QJbQ4y0s0k7Q&format=png" alt="Icon Pemilihan">
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
+    <path fill='none' stroke='%232c3e50' stroke-width='4' d='M20 20h60v60H20z'/>
+    <path fill='none' stroke='%232c3e50' stroke-width='4' d='M20 20l60 60'/>
+    <path fill='none' stroke='%232c3e50' stroke-width='4' d='M80 20l-60 60'/>
+    <circle cx='50' cy='50' r='15' fill='%23e74c3c'/>
+    <path stroke='%23ecf0f1' stroke-width='2' d='M45 50l5 5 10-10'/>
+  </svg>">
 </div>
 
 ---
@@ -186,7 +192,13 @@ Peluang untuk masa depan Pemilu di Indonesia sangat besar. Dengan komitmen bersa
 ---
 
 <div align="center">
-  <img src="https://img.icons8.com/?size=100&id=QJbQ4y0s0k7Q&format=png" alt="Icon Pemilihan">
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
+    <path fill='none' stroke='%232c3e50' stroke-width='4' d='M20 20h60v60H20z'/>
+    <path fill='none' stroke='%232c3e50' stroke-width='4' d='M20 20l60 60'/>
+    <path fill='none' stroke='%232c3e50' stroke-width='4' d='M80 20l-60 60'/>
+    <circle cx='50' cy='50' r='15' fill='%23e74c3c'/>
+    <path stroke='%23ecf0f1' stroke-width='2' d='M45 50l5 5 10-10'/>
+  </svg>">
 </div>
 
 ---
